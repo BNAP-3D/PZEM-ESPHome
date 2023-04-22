@@ -30,3 +30,4 @@ This guide will help you set up multiple PZEM-004T devices using a single pair o
 2. Change the addresses in the configuration to match your PZEM-004T device addresses.
 3. Flash the code to your NodeMCU ESP8266 or ESP32 board.
 4. Enjoy detailed data on your power consumption habits through Home Assistant.
+
