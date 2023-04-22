@@ -1,6 +1,10 @@
 # Using Multiple PZEM-004T Devices with a Single Pair of RX/TX Pins
 3 Phase Energy Monitoring using 3 PZEM 004-T and nodemcu (esp8266) 
 
+### Most simple setup (No Resistor and No Diode mod required)
+
+_Using weemos d1 mini in this configuration is not recomended_ 
+
 This guide will help you set up multiple PZEM-004T devices using a single pair of RX and TX pins on a NodeMCU ESP8266 board. It uses ESPHome to communicate with the devices and send the data to Home Assistant.
 
 ### Prerequisites
